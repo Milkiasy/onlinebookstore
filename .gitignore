@@ -30,4 +30,5 @@ build/
 ### VS Code ###
 .vscode/
 
-/backend/target
+/angular-bookstore/node_modules
+/spring-boot-restapi-using-apache-camel-/target
